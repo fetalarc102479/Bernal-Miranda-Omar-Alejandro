@@ -1,0 +1,12 @@
+/* Eliminar margenes por defecto */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ecf0126c;
+
+}
